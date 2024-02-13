@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Jocelyne-Smith
-- 👀 I am a computer and data scientist.
+- 👀 I am a computer scientist and data scientist.
 - 🌱 I am currently completing my honours degree on Natural Language Processing.
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
